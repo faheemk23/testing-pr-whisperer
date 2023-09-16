@@ -1,3 +1,3 @@
 # testing-pr-whisperer
 
-now it will work
+this should come in console
