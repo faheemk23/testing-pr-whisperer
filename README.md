@@ -1,3 +1,3 @@
 # testing-pr-whisperer
 
-test
+pr whisperer
