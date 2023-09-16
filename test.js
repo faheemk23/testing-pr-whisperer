@@ -2,4 +2,4 @@ function product(a, b) {
   return a * b;
 }
 
-console.log(2, 3);
+console.log(product(2, 3));
