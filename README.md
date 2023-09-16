@@ -1,3 +1,3 @@
 # testing-pr-whisperer
 
-why not workning
+now it will work
